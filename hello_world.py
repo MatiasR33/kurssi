@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 print("Hello World!")
-=======
-print("Hello world!")
->>>>>>> inter/main
+print("Hello from feature")
